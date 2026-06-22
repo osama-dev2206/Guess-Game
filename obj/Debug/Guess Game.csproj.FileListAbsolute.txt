@@ -1,0 +1,11 @@
+D:\Self-Study\C#\Projects (Windows Forms)\Guess Game\bin\Debug\Guess Game.exe.config
+D:\Self-Study\C#\Projects (Windows Forms)\Guess Game\bin\Debug\Guess Game.exe
+D:\Self-Study\C#\Projects (Windows Forms)\Guess Game\bin\Debug\Guess Game.pdb
+D:\Self-Study\C#\Projects (Windows Forms)\Guess Game\obj\Debug\Guess Game.csproj.AssemblyReference.cache
+D:\Self-Study\C#\Projects (Windows Forms)\Guess Game\obj\Debug\Guess_Game.frmGameSettings.resources
+D:\Self-Study\C#\Projects (Windows Forms)\Guess Game\obj\Debug\Guess_Game.Properties.Resources.resources
+D:\Self-Study\C#\Projects (Windows Forms)\Guess Game\obj\Debug\Guess Game.csproj.GenerateResource.cache
+D:\Self-Study\C#\Projects (Windows Forms)\Guess Game\obj\Debug\Guess Game.csproj.CoreCompileInputs.cache
+D:\Self-Study\C#\Projects (Windows Forms)\Guess Game\obj\Debug\Guess Game.exe
+D:\Self-Study\C#\Projects (Windows Forms)\Guess Game\obj\Debug\Guess Game.pdb
+D:\Self-Study\C#\Projects (Windows Forms)\Guess Game\obj\Debug\Guess_Game.frmGameMainScreen.resources

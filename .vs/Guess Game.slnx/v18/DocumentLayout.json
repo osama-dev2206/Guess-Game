@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Self-Study\\C#\\Projects (Windows Forms)\\Guess Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20CAD4B1-F814-4917-AD60-1C1080360D07}|Guess Game.csproj|d:\\self-study\\c#\\projects (windows forms)\\guess game\\gamesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20CAD4B1-F814-4917-AD60-1C1080360D07}|Guess Game.csproj|solutionrelative:gamesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CAD4B1-F814-4917-AD60-1C1080360D07}|Guess Game.csproj|d:\\self-study\\c#\\projects (windows forms)\\guess game\\gamemainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20CAD4B1-F814-4917-AD60-1C1080360D07}|Guess Game.csproj|solutionrelative:gamemainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CAD4B1-F814-4917-AD60-1C1080360D07}|Guess Game.csproj|d:\\self-study\\c#\\projects (windows forms)\\guess game\\gamesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20CAD4B1-F814-4917-AD60-1C1080360D07}|Guess Game.csproj|solutionrelative:gamesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CAD4B1-F814-4917-AD60-1C1080360D07}|Guess Game.csproj|d:\\self-study\\c#\\projects (windows forms)\\guess game\\gamemainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20CAD4B1-F814-4917-AD60-1C1080360D07}|Guess Game.csproj|solutionrelative:gamemainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameSettings.cs",
+              "DocumentMoniker": "D:\\Self-Study\\C#\\Projects (Windows Forms)\\Guess Game\\GameSettings.cs",
+              "RelativeDocumentMoniker": "GameSettings.cs",
+              "ToolTip": "D:\\Self-Study\\C#\\Projects (Windows Forms)\\Guess Game\\GameSettings.cs",
+              "RelativeToolTip": "GameSettings.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAIwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T15:28:30.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameSettings.cs [Design]",
+              "DocumentMoniker": "D:\\Self-Study\\C#\\Projects (Windows Forms)\\Guess Game\\GameSettings.cs",
+              "RelativeDocumentMoniker": "GameSettings.cs",
+              "ToolTip": "D:\\Self-Study\\C#\\Projects (Windows Forms)\\Guess Game\\GameSettings.cs [Design]",
+              "RelativeToolTip": "GameSettings.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T15:28:00.465Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameMainScreen.cs",
+              "DocumentMoniker": "D:\\Self-Study\\C#\\Projects (Windows Forms)\\Guess Game\\GameMainScreen.cs",
+              "RelativeDocumentMoniker": "GameMainScreen.cs",
+              "ToolTip": "D:\\Self-Study\\C#\\Projects (Windows Forms)\\Guess Game\\GameMainScreen.cs",
+              "RelativeToolTip": "GameMainScreen.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T14:50:29.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameMainScreen.cs [Design]",
+              "DocumentMoniker": "D:\\Self-Study\\C#\\Projects (Windows Forms)\\Guess Game\\GameMainScreen.cs",
+              "RelativeDocumentMoniker": "GameMainScreen.cs",
+              "ToolTip": "D:\\Self-Study\\C#\\Projects (Windows Forms)\\Guess Game\\GameMainScreen.cs [Design]",
+              "RelativeToolTip": "GameMainScreen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T14:43:49.069Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
